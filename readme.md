@@ -11,5 +11,5 @@
 ### 启动命令(安卓端)
 
 ```
-yarn android (
+yarn android
 ```

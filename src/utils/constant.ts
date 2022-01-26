@@ -1,0 +1,1 @@
+export const KEYWORD_NOT_NULL = "搜索词不能为空";
